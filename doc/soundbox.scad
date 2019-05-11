@@ -1,3 +1,5 @@
+// Based on Customizable snap-fit electronics project box enclosure by 0707070
+// CC-BY · https://www.thingiverse.com/thing:2866563
 
 // Which one would you like to see?
 part = "both"; // [box:Box only, top: Top cover only, both: Box and top cover]
